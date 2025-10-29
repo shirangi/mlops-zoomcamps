@@ -1,0 +1,14 @@
+artifact_uri: file:///home/ubuntu/mlops-zoomcamps/02-experiment-tracking/running-mlflow-examples/mlruns/769896889060288936/785144b5259b412b9e4f6fea43af43d6/artifacts
+end_time: 1761715708373
+entry_point_name: ''
+experiment_id: '769896889060288936'
+lifecycle_stage: active
+run_id: 785144b5259b412b9e4f6fea43af43d6
+run_name: loud-snail-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761715705476
+status: 3
+tags: []
+user_id: ubuntu
